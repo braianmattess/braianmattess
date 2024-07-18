@@ -1,7 +1,7 @@
 ### Seja bem vindo(a) ao meu perfil!
 
 - 👋 Hello, my name is Braian!
-- 👀 I'm studying JavaScript, HTML, CSS, Node.js
+- 👀 I'm studying JavaScript, HTML, CSS.
   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/braianmattess)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braian-mattes-787995248)
